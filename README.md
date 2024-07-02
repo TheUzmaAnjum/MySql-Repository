@@ -1,4 +1,4 @@
-MySQL Repository: From Beginner to Advanced Concepts
+## MySQL Repository: From Beginner to Advanced Concepts
 Welcome to my MySQL Repository! This guide showcases my knowledge and skills in MySQL, covering concepts from basic to advanced levels.
 
 Basic Concepts
