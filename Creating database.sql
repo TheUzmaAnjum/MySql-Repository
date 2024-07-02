@@ -55,15 +55,15 @@ VALUES
 
 
 
-CREATE TABLE parks_departments (
+CREATE TABLE employee_departments (
   department_id INT NOT NULL AUTO_INCREMENT,
   department_name varchar(50) NOT NULL,
   PRIMARY KEY (department_id)
 );
 
-INSERT INTO parks_departments (department_name)
+INSERT INTO employee_departments (department_name)
 VALUES
-('Parks and Recreation'),
+('Parks'),
 ('Animal Control'),
 ('Public Works'),
 ('Healthcare'),
