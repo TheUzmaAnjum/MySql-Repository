@@ -6,7 +6,7 @@ I have mastered the fundamentals of MySQL, including an introduction to database
 data types, creating tables, and basic queries.
 
 ### Intermediate Concepts
-I am proficient in intermediate MySQL topics such as joins (INNER, LEFT, RIGHT, FULL),case statements, subqueries, window functions,indexes, views and transactions.
+I am proficient in intermediate MySQL topics such as Joins (INNER, LEFT, RIGHT, FULL),CASE statements, Subqueries, Window functions,Indexes, Views and Transactions.
 
 ### Advanced Concepts
 I possess advanced skills in MySQL, CTEs,Temp tables, Stored procedures, Triggers and Events.
